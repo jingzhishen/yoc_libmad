@@ -11,8 +11,6 @@ keywords:                                           # <可选项> 标签，会�
   - media
 yoc_version: ['v7.2', 'v7.3']
 author:                                             # <可选项> 原作者信息
-  name: jingzhishen
-  email: jingzhishen@126.com
 license: GPL                                        # <可选项> 源代码的许可证，要确保所有代码、文件的许可证不冲突。如：MIT，Apache license v2.0，BSD
 
 ## 第二部分：依赖信息
