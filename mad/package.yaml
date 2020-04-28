@@ -1,6 +1,7 @@
 
 ## 第一部分： 基础信息
 name: mad                                           # <必选项> 包名称 （符合C语言变量命名规则），长度少于等于64字节
+version: v7.3-dev
 description: MAD是一个开源的高精度 MPEG 音频解码库，支持 MPEG-1（Layer I, Layer II 和 LayerIII（也就是 MP3)) # <必选项> 建议至少20字以上
 type: common                                        # <可选项> 组件类型，为：solution, chip, board, common，缺省值 common
 
@@ -9,7 +10,6 @@ keywords:                                           # <可选项> 标签，会�
   - mp3
   - audio decoder
   - media
-yoc_version: ['v7.2', 'v7.3']
 author:                                             # <可选项> 原作者信息
 license: GPL                                        # <可选项> 源代码的许可证，要确保所有代码、文件的许可证不冲突。如：MIT，Apache license v2.0，BSD
 
